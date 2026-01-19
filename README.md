@@ -9,7 +9,7 @@ Tôi là sinh viên năm 3 chuyên ngành CNTT, đam mê xây dựng hệ thốn
 
 🐧 OS yêu thích: Kali Linux.
 
-💬 Sở trường: Java Core, Python, PHP, Lập trình mạng (TCP/UDP).
+💬 Sở trường: Java Core, Python, PHP, C++, Lập trình mạng (TCP/UDP).
 
 🛠 Tech Stack
 
