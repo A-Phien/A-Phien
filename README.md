@@ -7,8 +7,6 @@ Tôi là sinh viên năm 3 chuyên ngành CNTT, đam mê xây dựng hệ thốn
 
 🎓 Học vấn: Sinh viên CNTT (Năm 3).
 
-🔭 Đang làm: Các dự án với Spring Boot và Laravel, mô hình Client-Server.
-
 🐧 OS yêu thích: Kali Linux.
 
 💬 Sở trường: Java Core, Python, PHP, Lập trình mạng (TCP/UDP).
