@@ -47,7 +47,7 @@
 📊 Chỉ số thực chiến (Stats)
 
 <div align="center">
-<!-- Thống kê tổng quan - Thay A-Phien bằng user thật nếu cần, nhưng ta đã điền sẵn rồi -->
+<!-- Thống kê tổng quan -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DA-Phien%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="stats" />
 
 <!-- Thống kê ngôn ngữ -->
