@@ -1,7 +1,7 @@
 👋 Hi, I'm A Phien
 
 
-Tôi là sinh viên năm 3 chuyên ngành CNTT, đam mê xây dựng hệ thống Backend và bảo mật.
+Tôi là sinh viên năm 3 chuyên ngành CNTT, xây dựng hệ thống Backend và bảo mật.
 
 👨‍💻 About Me
 
