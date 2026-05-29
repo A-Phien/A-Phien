@@ -1,38 +1,45 @@
-👋 Hi, I'm A Phien
+### Hi, I'm **Phiên** 👋
 
+🎓 **Software Engineering Student** | 💻 **Backend & Full-stack Enthusiast**
+I enjoy building practical systems, exploring new technologies, and continuously improving my problem-solving skills.
 
-Tôi là sinh viên năm 3 chuyên ngành CNTT, xây dựng hệ thống Backend và bảo mật.
+---
 
-👨‍💻 About Me
+### 🚀 About Me
 
-🎓 Học vấn: Sinh viên CNTT (Năm 3).
+* 🔭 Interested in **Backend Development, System Design & Databases**
+* 💪 **2025 Goals**: Strengthen Python, system thinking, and real-world projects
+* 🌱 Currently learning: **Blockchain Technology (Web3, Smart Contracts), Microservices**
+* ⭐ Hobbies: Reading, listening to music, walking, running, badminton
 
-🐧 OS yêu thích: Kali Linux.
+---
 
-💬 Sở trường: Java Core, Python, PHP, C++, Lập trình mạng (TCP/UDP).
+### 🛠️ Technical Skills
 
-🛠 Tech Stack
+* **Languages**: Java, Python, SQL, C++, PHP
+* **Backend**: Spring Boot, Spring Security, JPA/Hibernate, Laravel
+* **Frontend**: ReactJS, HTML, CSS
+* **Database**: PostgreSQL, MySQL, Firebase
+* **DevOps & Tools**: Git, Docker, Postman, Docker Swarm
 
-Backend
+---
 
-☕ Java, Spring Boot, Laravel
+<table>
+<tr>
+  <td width="55%">
+    <img alt="coding" align="right" src="coding-freak.gif" />
+  </td>
+</tr>
+</table>
 
-🐍 Python (Django/Flask)
+---
 
-Frontend
+### 📫 Contact Me
 
-⚛️ ReactJS, JavaScript
+* 📧 Email: **[aphien629.@gmail.com](mailto:aphien629.@gmail.com)**
+* 📱 Phone: **+84 387 791 263**
+* 🌐 GitHub: [https://github.com/imkhari](https://github.com/A-Phien)
 
-🎨 HTML5, CSS3
+---
 
-Database & DevOps
-
-🗄️ MySQL, Firebase
-
-🐳 Docker, Git, Linux Shell
-
-📫 Connect
-
-📧 Email me
-
-🤝 Follow me on GitHub for more projects.
+⭐ *Always learning – always improving.*
