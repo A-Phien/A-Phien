@@ -38,7 +38,7 @@ I enjoy building practical systems, exploring new technologies, and continuously
 
 * 📧 Email: **[aphien629.@gmail.com](mailto:aphien629.@gmail.com)**
 * 📱 Phone: **+84 387 791 263**
-* 🌐 GitHub: [https://github.com/imkhari](https://github.com/A-Phien)
+* 🌐 GitHub: [https://github.com/A-Phien](https://github.com/A-Phien)
 
 ---
 
